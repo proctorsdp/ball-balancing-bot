@@ -1,0 +1,11 @@
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/Code.dir
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/School/Microcomputer Interfacing/B3/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
